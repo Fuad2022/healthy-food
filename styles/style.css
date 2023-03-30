@@ -79,6 +79,7 @@ FF1E1E
   height: 800px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .about_image img {
@@ -92,7 +93,7 @@ FF1E1E
 
 .about_me_info h2 {
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 800;
   color: #575757;
 }
 .about_me_info p {
