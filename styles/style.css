@@ -20,10 +20,9 @@ FF1E1E
   /* background-color: #575757; */
 }
 .hero_info {
-  width: 500px;
+  width: 45%;
   height: fit-content;
   margin-bottom: 0;
-  padding-bottom: 0;
 }
 .orange_text {
   color: #0d92ff;
@@ -38,6 +37,7 @@ FF1E1E
   margin-bottom: 50px;
   margin-top: 25px;
   color: #828282;
+  padding-right: 100px;
 }
 .hero_info a {
   padding: 10px 40px;
@@ -49,18 +49,18 @@ FF1E1E
 }
 
 .hero_image {
-  width: 600px;
-  height: 550px;
+  width: 45%;
+  height: 600px;
   margin: 0;
   padding: 0;
-  background-image: url(/images/shapes/Group-8449.png);
+  background-image: url(/images/hero_bg.png);
   background-repeat: no-repeat;
   background-position: right;
-  background-size: cover;
+  background-size: contain;
 }
 .hero_image img {
   width: 100%;
-  height: 95%;
+  height: 90%;
   margin: 0 auto;
 }
 .about_me {
@@ -68,7 +68,7 @@ FF1E1E
   height: 800px;
   display: flex;
   align-items: center;
-  background-image: url(/images/shapes/Frame\ 57.jpg);
+  background-image: url(/images/about-Bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
